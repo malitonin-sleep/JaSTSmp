@@ -1,0 +1,2 @@
+# JaSTSmp
+modpack for terraria 
